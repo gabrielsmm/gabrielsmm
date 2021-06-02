@@ -1,4 +1,11 @@
-### Hi there 👋
+## Gabriel Mendes
+I'm a Computer Science student from Brazil 🇧🇷, enthusiastic about programming and learning, seeking more and more knowledge and practice 📙
+
+Reach me out 👇
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/gabrielsmm_)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/gabriel-mendes-a818bb19b/)
 
 <!--
 **gabrielsmm/gabrielsmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
